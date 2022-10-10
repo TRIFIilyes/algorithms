@@ -38,3 +38,5 @@ print(tabulate(results, headers={'n':'Pour N', 'time': 'Time', 'iter':'iteration
 plt.plot([x['n'] for x in results],[x['time'] for x in results])
 plt.xticks([x['n'] for x in results])
 plt.show()
+
+this line will be deleted 
