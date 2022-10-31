@@ -6,5 +6,6 @@ def mintab(tab, n):
     
 
 tab = [-214122,3,4,5,-11]
+# add more example so people will understand what you are doing here
 n = len(tab)
 print(mintab(tab,n))
